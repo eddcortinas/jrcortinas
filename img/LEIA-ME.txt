@@ -1,0 +1,25 @@
+FOTOS DO SITE - JR Cortinas & Persianas
+
+Coloque nesta pasta as imagens com exatamente estes nomes.
+Enquanto uma foto não existir, o site mostra um espaço cinza no lugar.
+
+Arquivo            Onde aparece                              Tamanho sugerido
+logo-jr.png        Logo (cabeçalho e rodapé)                 fundo transparente, cor #3A2E29 (hoje é provisória, em texto)
+hero.jpg           Foto grande do topo                       vertical, até 1100 px de largura
+sobre.jpg          Foto da seção "Sobre nós"                 até 1100 px de largura
+projeto-01.jpg     Galeria "Projetos" (a 1ª fica mais alta)  até 1100 px de largura
+projeto-02.jpg     Galeria "Projetos"
+projeto-03.jpg     Galeria "Projetos"
+projeto-04.jpg     Galeria "Projetos"
+projeto-05.jpg     Galeria "Projetos"
+projeto-06.jpg     Galeria "Projetos"
+(... até projeto-12.jpg)
+og-image.jpg       Imagem do link no WhatsApp/Facebook       1200 x 630 px
+favicon.png        Ícone da aba do navegador                 64 x 64 px (já criado: "JR")
+favicon-180.png    Ícone no celular                          180 x 180 px (já criado: "JR")
+
+Dicas
+- Fotos em JPG, com qualidade perto de 85%.
+- Para ter mais fotos na galeria, copie um bloco <figure class="media gallery__item"> no index.html
+  e troque o número do arquivo (projeto-07.jpg, projeto-08.jpg...).
+- Os cards de "Modelos" não usam foto.
